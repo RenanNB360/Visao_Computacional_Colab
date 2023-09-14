@@ -7,7 +7,7 @@ a partir da versão 2.x e no momento que a rede neural convolucional foi desenvo
 
 <h3>Resultado da Segmentação</h3>
 
-
+![seg](https://github.com/RenanNB360/Visao_Computacional_Colab/assets/87036785/9ca2c2ac-effa-421e-bcb9-19b4aed84443)
 
 Utilizamos a base de dados do Coco com 80 categorias, tivemos bons resultados para as classes detectadas na imagem tanto 
 para segmentação ou remoção do fundo.
